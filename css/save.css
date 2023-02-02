@@ -1,0 +1,38 @@
+*{
+     animation: cubic-bezier(0,1.4,0.43,0.13) ;
+    -webkit-animation: cubic-bezier(0,1.4,0.43,0.13) ;
+    /* animtion fast and suddnly get slow */
+    box-shadow: 0 0 10px rgb(0 0 0 / 10%), inset 0 0 1px 0 rgb(0 0 0 / 40%);
+    /* box */
+    box-shadow: 0 1px 0.833vw rgb(0 0 0 / 5%);
+    /* nav */
+    /* .pa > [title]:nth-child(-n+6){
+    color: red;*/
+        box-shadow: 0 0 35px rgb(0 0 0 / 10%);
+} 
+
+/* .pa > [title]:not(.no-need){
+    color: red;
+} */
+
+
+/* 
+    comdy - converstion - listening - readind - news - grammer - Rachel's English
+     - school subjcts - programming
+    My day will be like.. 
+        1 of listenung , another one of Rachel's English and 2 of ( comdy - converstion - readind - news - grammer) 
+        listen to podcast and try prnoun hard words
+        in evening read a book
+        -----------------------------------
+        2 lessens of school subjcts
+        -----------------------------------
+        coding like i wants
+*/
+
+/* 
+    1- 1/11/2022 english (100%) coding (100%) school subjcts (70%)
+    2- 2/11/2022 english (80%%) coding (100%) school subjcts (100%)
+    3- 3/11/2022 english (%) coding (%) school subjcts (%)
+    2- 4/11/2022 english (%) coding (%) school subjcts (%)
+    5- 5/11/2022 english (%) coding (%) school subjcts (%)
+ */
